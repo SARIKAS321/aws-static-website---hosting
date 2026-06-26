@@ -1,5 +1,9 @@
 # AWS Static Website Hosting Project
 
+Intern ID: CITS3131
+
+This project demonstrates AWS Static Website Hosting using Amazon S3.
+
 ## Objective
 To understand how static websites can be hosted using AWS S3.
 
